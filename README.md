@@ -19,5 +19,5 @@ Python, FastAPI, SQL, PostgreSQL, Docker, GitHub Actions, pytest, pandas, NumPy,
 ## Contact
 
 - Email: ritika.surgeon4@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ritika-jha-7ba628422/
+- LinkedIn: https://www.linkedin.com/in/ritika-jha-dr-7ba628422/
 - Location: New Delhi, India
