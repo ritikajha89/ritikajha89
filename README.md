@@ -2,9 +2,9 @@
 
 Medical AI and LLM evaluation specialist and DNB-qualified General Surgeon. I evaluate AI-generated clinical, biomedical, general-reasoning, and code outputs, deciding what is actually correct and safe, and turning that into clean benchmark and training signal.
 
-- Currently: Senior Resident in General Surgery (AIIMS, New Delhi) and LLM Evaluation Specialist (Turing).
+- Currently: Senior Resident in General Surgery (AIIMS, New Delhi) and an LLM Evaluation Specialist at Turing (remote).
 - Focus areas: medical and clinical AI evaluation, clinical safety, general LLM evaluation, Python code QA, coding-agent evaluation, and ML/data-science evaluation.
-- Background: DNB in General Surgery, MBBS, with Python and machine-learning coursework from the University of Michigan and Stanford/DeepLearning.AI.
+- Background: DNB in General Surgery and MBBS, with active registration with the Delhi Medical Council; Python coursework from the University of Michigan and hands-on ML and data-science work in my evaluation projects.
 
 ## Featured projects
 
