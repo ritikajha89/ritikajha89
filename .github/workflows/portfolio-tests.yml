@@ -1,0 +1,22 @@
+name: Portfolio tests
+
+on:
+  push:
+    paths:
+      - 'portfolio/**'
+      - '.github/workflows/portfolio-tests.yml'
+  pull_request:
+    paths:
+      - 'portfolio/**'
+      - '.github/workflows/portfolio-tests.yml'
+
+jobs:
+  unit-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run dependency-free portfolio tests
+        run: python -m unittest discover -s portfolio/tests -v
