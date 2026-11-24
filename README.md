@@ -8,9 +8,19 @@ Medical AI and LLM evaluation specialist and DNB-qualified General Surgeon. I ev
 
 ## Featured projects
 
+### Existing repositories
 - **[Medical LLM Evaluation and Safety Studio](https://github.com/ritikajha89/medical-llm-eval)** - FastAPI + React/TypeScript tool that scores clinical model answers against a rubric, with dosage, unit, and contraindication safety checks.
 - **[Clinical ML and Data Science Lab](https://github.com/ritikajha89/clinical-ml-lab)** - reproducible lab covering modeling, cross-validation, calibration, error analysis, and SQL/DuckDB analytics on clinical-style data.
 - **[Code QA and Coding-Agent Evaluation Harness](https://github.com/ritikajha89/codeqa-agent-harness)** - Python harness with reference solutions, hidden tests, and automated verifiers, including medical-calculator safety tasks.
+
+### New portfolio lab
+The following projects are early-stage prototypes and experiment scaffolds. They are not official benchmark submissions and no benchmark scores are claimed.
+
+- **[Frontier LLM Evaluation Lab](portfolio/frontier-llm-eval-lab/)** - deterministic, transparent rubric scoring and JSON evaluation reports.
+- **[Terminal-Bench 4.0 Experiment Harness](portfolio/terminal-bench-4-harness/)** - Harbor-based run instructions and result normalization for reproducible terminal-agent experiments.
+- **[LLM Red-Team and Safety Benchmark](portfolio/llm-redteam-benchmark/)** - versioned prompt-injection, factuality, uncertainty, and safe-completion cases.
+- **[LLM Evaluation Runner API](portfolio/evaluation-runner-api/)** - typed FastAPI job-submission and status API prototype.
+- **[Agent Trace Observability](portfolio/agent-trace-observability/)** - FastAPI trace ingestion, span validation, and error/latency summaries.
 
 ## Tech I work with
 
