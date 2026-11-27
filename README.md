@@ -1,33 +1,41 @@
-# Hi, I'm Dr. Ritika Jha
+I evaluate frontier-model output at scale: I review model-generated code and complete agent trajectories, decide which solution is actually correct, and turn that judgment into clean training and benchmark signal.
 
-AI and LLM evaluation specialist. I evaluate AI-generated clinical, biomedical, general-reasoning, and code outputs, deciding what is actually correct and safe, and turning that into clean benchmark and training signal.
 
-- Currently: LLM Evaluation Specialist at Turing (remote).
-- Focus areas: medical and clinical AI evaluation, clinical safety, general LLM evaluation, Python code QA, coding-agent evaluation, and ML/data-science evaluation.
-- Background: Python coursework from the University of Michigan and hands-on ML and data-science work in my evaluation projects.
 
-## Featured projects
+AI Architect and Software engineer with 12+ years across Terminal 4.0 benchmark, backend engineering, machine learning, and data science, with specialized recent experience in frontier-model and coding-agent evaluation.
 
-### Existing repositories
-- **[Medical LLM Evaluation and Safety Studio](https://github.com/ritikajha89/medical-llm-eval)** - FastAPI + React/TypeScript tool that scores clinical model answers against a rubric, with dosage, unit, and contraindication safety checks.
-- **[Clinical ML and Data Science Lab](https://github.com/ritikajha89/clinical-ml-lab)** - reproducible lab covering modeling, cross-validation, calibration, error analysis, and SQL/DuckDB analytics on clinical-style data.
-- **[Code QA and Coding-Agent Evaluation Harness](https://github.com/ritikajha89/codeqa-agent-harness)** - Python harness with reference solutions, hidden tests, and automated verifiers, including medical-calculator safety tasks.
 
-### New portfolio lab
-The following projects are early-stage prototypes and experiment scaffolds. They are not official benchmark submissions and no benchmark scores are claimed.
 
-- **[Frontier LLM Evaluation Lab](portfolio/frontier-llm-eval-lab/)** - deterministic, transparent rubric scoring and JSON evaluation reports.
-- **[Terminal-Bench 4.0 Experiment Harness](portfolio/terminal-bench-4-harness/)** - Harbor-based run instructions and result normalization for reproducible terminal-agent experiments.
-- **[LLM Red-Team and Safety Benchmark](portfolio/llm-redteam-benchmark/)** - versioned prompt-injection, factuality, uncertainty, and safe-completion cases.
-- **[LLM Evaluation Runner API](portfolio/evaluation-runner-api/)** - typed FastAPI job-submission and status API prototype.
-- **[Agent Trace Observability](portfolio/agent-trace-observability/)** - FastAPI trace ingestion, span validation, and error/latency summaries.
+What I do:
 
-## Tech I work with
+- Coding-agent and code-QA evaluation: Terminal Benchmarking, repository-level review on cloned Git repos (Cursor, Claude Code, Gemini CLI), scoring correctness, scope control, context retention, hallucinated changes, and tool-use, with evidence-based written rationales.
 
-Python, FastAPI, SQL, PostgreSQL, Docker, GitHub Actions, pytest, pandas, NumPy, scikit-learn, DuckDB, React, TypeScript, Vitest.
+- Benchmark and reference-solution authoring: SciCode-style tasks, golden solutions, automated verifiers, and adversarial tests for computational math and coding.
 
-## Contact
+- LLM evaluation and alignment data: rubric design, pairwise preference ranking, RLHF/SFT data quality, and DPO preference-data preparation.
 
-- Email: ritika.surgeon4@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ritika-jha-dr-7ba628422/
-- Location: New Delhi, India
+- Backend and evaluation infrastructure: Python, FastAPI, PostgreSQL/pgvector, Redis, Docker, Kubernetes; retrieval and reranking services; MLflow and Weights & Biases.
+
+- Machine learning and data science: model training, cross-validation, model selection, calibration, error analysis, statistical analysis, and SQL analytics (funnels, cohorts, A/B tests).
+
+- Medical and clinical AI evaluation: factuality, clinical safety, guideline grounding, dosage and unit validation, contraindication logic, and red-flag escalation, with evidence-based written rationales.
+
+- General LLM evaluation: reasoning quality, completeness, instruction-following, hallucination and grounding review, pairwise ranking, reviewer calibration, and RLHF/SFT data quality.
+
+- Coding-agent and Python code QA: repository-level review, issue reproduction, patch and trajectory evaluation, boundary and regression tests, and hidden-test design (Python and JavaScript/TypeScript).
+
+
+
+Foundation: Strong academic foundation in Computer Science, complemented by active PhD research evaluation work in Mathematics focused on algorithms, numerical methods, optimization, scientific computing, and mathematical modeling.
+
+
+
+Open to coding-agent, Python, backend, ML, and data-science evaluation roles, medical AI, clinical, LLM, coding-agent, Python, and ML evaluation roles.
+
+
+
+Public projects: github.com/ritikajha89 (Medical LLM Evaluation and Safety Studio; Clinical ML and Data Science Lab; Code QA and Coding-Agent Evaluation Harness).
+
+
+
+Email: ritika.surgeon4@gmail.com
