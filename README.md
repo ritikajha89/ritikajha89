@@ -26,10 +26,6 @@ What I do:
 
 
 
-Foundation: Strong academic foundation in Computer Science, complemented by active PhD research evaluation work in Mathematics focused on algorithms, numerical methods, optimization, scientific computing, and mathematical modeling.
-
-
-
 Open to coding-agent, Python, backend, ML, and data-science evaluation roles, medical AI, clinical, LLM, coding-agent, Python, and ML evaluation roles.
 
 
